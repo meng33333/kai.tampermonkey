@@ -3,9 +3,9 @@
 // @version      1.0.0
 // @author       meng kai
 // @description  拷贝文字时去除站点信息
-// @namespace https://greasyfork.org/zh-CN/users/972532-meng33333
 // @match        *://*/*
 // @grant        none
+// @namespace https://greasyfork.org/zh-CN/users/972532-meng33333
 // ==/UserScript==
 
 (function() {

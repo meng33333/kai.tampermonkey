@@ -5,6 +5,7 @@
 // @description  拷贝文字时去除站点信息
 // @match        *://*/*
 // @grant        none
+// @license MIT
 // @namespace https://greasyfork.org/zh-CN/users/972532-meng33333
 // ==/UserScript==
 
